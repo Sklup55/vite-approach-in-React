@@ -1,1 +1,1 @@
-sudo npm install -g vite
+sudo npm install vite@5.2.10
